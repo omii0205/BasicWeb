@@ -1,2 +1,0 @@
-# BasicWeb
-Basic Web projects
